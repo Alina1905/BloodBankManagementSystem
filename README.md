@@ -29,7 +29,7 @@ Access to the system is role-restricted to maintain data security and integrity:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Role-Based Authentication** — Each user type logs in with credentials suited to their access level
 - **Complete CRUD Operations** — Add, update, and delete donors, recipients, and inventory entries
@@ -61,7 +61,7 @@ Access to the system is role-restricted to maintain data security and integrity:
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 - **Low Stock Alerts** — Automated notifications when blood units fall below a threshold
 - **Web Version** — Browser-accessible interface for remote hospital use
@@ -69,7 +69,7 @@ Access to the system is role-restricted to maintain data security and integrity:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This project was built collaboratively as a semester project for our **Database Systems** course. We welcome suggestions, bug reports, and contributions. Feel free to open an issue or submit a pull request!
 
